@@ -8,8 +8,11 @@ Transaction miner, Block miner, Merkle root, etc
 • Constructed Blocks, Performed Mining, and Integrated into the Blockchain Network.
 
 Create names.txt file for the account user 
+
 like :
+
 Vikash
+
 Shubhangi
 Tanuj
 Yashika
