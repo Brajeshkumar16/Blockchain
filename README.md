@@ -27,4 +27,9 @@ Pavan
 
 Rumana
 
+## How to run
+
+simpely run server.py then run client.py
+
+
 
